@@ -1,2 +1,2 @@
-# www-golfstrike-co-uk.github.io
-main website - moved to GitHub pages
+# www.golfstrike.co.uk
+main golfstrike website - copied from Azure to Github pages
